@@ -1,0 +1,2 @@
+C:\Users\admit\Documents\Visual Studio 2010\Projects\NoteBookAppBeta1\BLL\obj\x86\Debug\BLL.Properties.Resources.resources
+C:\Users\admit\Documents\Visual Studio 2010\Projects\NoteBookAppBeta1\BLL\obj\x86\Debug\BLL.csproj.GenerateResource.Cache

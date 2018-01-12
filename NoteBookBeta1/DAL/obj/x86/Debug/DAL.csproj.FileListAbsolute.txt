@@ -1,0 +1,3 @@
+C:\Users\admit\Documents\Visual Studio 2010\Projects\NoteBookAppBeta1\DAL\obj\x86\Debug\DAL.Properties.Resources.resources
+C:\Users\admit\Documents\Visual Studio 2010\Projects\NoteBookAppBeta1\DAL\obj\x86\Debug\DAL.csproj.GenerateResource.Cache
+C:\Users\admit\Documents\Visual Studio 2010\Projects\NoteBookAppBeta1\DAL\obj\x86\Debug\DAL.csprojResolveAssemblyReference.cache

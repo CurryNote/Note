@@ -1,0 +1,9 @@
+C:\Users\admit\Documents\Visual Studio 2010\Projects\NoteBookAppBeta1\NoteBookUI\bin\Debug\NoteBookUI.exe
+C:\Users\admit\Documents\Visual Studio 2010\Projects\NoteBookAppBeta1\NoteBookUI\bin\Debug\NoteBookUI.pdb
+C:\Users\admit\Documents\Visual Studio 2010\Projects\NoteBookAppBeta1\NoteBookUI\obj\x86\Debug\NoteBookUI.MainForm.resources
+C:\Users\admit\Documents\Visual Studio 2010\Projects\NoteBookAppBeta1\NoteBookUI\obj\x86\Debug\NoteBookUI.Properties.Resources.resources
+C:\Users\admit\Documents\Visual Studio 2010\Projects\NoteBookAppBeta1\NoteBookUI\obj\x86\Debug\NoteBookUI.csproj.GenerateResource.Cache
+C:\Users\admit\Documents\Visual Studio 2010\Projects\NoteBookAppBeta1\NoteBookUI\obj\x86\Debug\NoteBookUI.exe
+C:\Users\admit\Documents\Visual Studio 2010\Projects\NoteBookAppBeta1\NoteBookUI\obj\x86\Debug\NoteBookUI.pdb
+C:\Users\admit\Documents\Visual Studio 2010\Projects\NoteBookAppBeta1\NoteBookUI\bin\Debug\NoteBookUI.exe.config
+C:\Users\admit\Documents\Visual Studio 2010\Projects\NoteBookAppBeta1\NoteBookUI\obj\x86\Debug\NoteBookUI.LoginForm.resources

@@ -1,0 +1,9 @@
+C:\Users\admit\Documents\Visual Studio 2010\Projects\NoteBookAppBeta1\IDAL\obj\x86\Debug\IDAL.Properties.Resources.resources
+C:\Users\admit\Documents\Visual Studio 2010\Projects\NoteBookAppBeta1\IDAL\obj\x86\Debug\IDAL.csproj.GenerateResource.Cache
+C:\Users\admit\Documents\Visual Studio 2010\Projects\NoteBookAppBeta1\IDAL\bin\Debug\IDAL.dll
+C:\Users\admit\Documents\Visual Studio 2010\Projects\NoteBookAppBeta1\IDAL\bin\Debug\IDAL.pdb
+C:\Users\admit\Documents\Visual Studio 2010\Projects\NoteBookAppBeta1\IDAL\bin\Debug\Model.dll
+C:\Users\admit\Documents\Visual Studio 2010\Projects\NoteBookAppBeta1\IDAL\bin\Debug\Model.pdb
+C:\Users\admit\Documents\Visual Studio 2010\Projects\NoteBookAppBeta1\IDAL\obj\x86\Debug\IDAL.csprojResolveAssemblyReference.cache
+C:\Users\admit\Documents\Visual Studio 2010\Projects\NoteBookAppBeta1\IDAL\obj\x86\Debug\IDAL.dll
+C:\Users\admit\Documents\Visual Studio 2010\Projects\NoteBookAppBeta1\IDAL\obj\x86\Debug\IDAL.pdb
